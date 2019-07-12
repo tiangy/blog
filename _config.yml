@@ -79,5 +79,6 @@ theme: pure
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
   type: git
-  erpository: https://github.com/tiangy/tiangy.github.io
+  repo: https://github.com/tiangy/tiangy.github.io
   branch: master
+
